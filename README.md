@@ -5,4 +5,4 @@ EN: This repository contains my steganography projects implemented in Python. He
 RU: Этот репозиторий содержит мои проекты по стеганографии, реализованные на Python. Здесь вы найдёте инструменты для сокрытия текстовых сообщений в изображениях, аудио и видео файлах. Присоединяйтесь, если хотите углубиться в тайный мир скрытой информации!
 
 ## Projects / Проекты
-- [StegoPy](https://github.com/consul-k/Steganography/tree/main/StegoPy) - утилита для сокрытия текста в изображениях
+- [StegoPy](https://github.com/consul-k/Steganography/tree/main/StegoPy) - utility for hiding text in images / утилита для сокрытия текста в изображениях
