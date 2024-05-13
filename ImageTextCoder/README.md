@@ -30,3 +30,5 @@ ImageTextCoder is a Python program for steganographic encoding of images into te
 ## Dependencies
 
 - Python 3.x
+
+This project is distributed under the MIT license. See the LICENSE file for details.
