@@ -12,7 +12,7 @@ ImageTextCoder - это программа на Python для стеганогр
 
 1. Клонируйте репозиторий:
    ```
-  git clone https://github.com/consul-k/Steganography.git
+   git clone https://github.com/consul-k/Steganography.git
    ```
 
 2. Перейдите в директорию проекта:
@@ -30,8 +30,5 @@ ImageTextCoder - это программа на Python для стеганогр
 ## Зависимости
 
 - Python 3.x
-
-
-## Лицензия
 
 Этот проект распространяется по лицензии MIT. Подробнее см. в файле LICENSE.
