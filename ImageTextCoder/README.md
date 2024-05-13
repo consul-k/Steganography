@@ -12,12 +12,12 @@ ImageTextCoder is a Python program for steganographic encoding of images into te
 
 1. Clone the repository:
    ```
-   git clone https://github.com/consul-k/Steganography/tree/main/ImageTextCoder
+   git clone https://github.com/consul-k/Steganography.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd ImageTextCoder
+   cd Steganography/ImageTextCoder
    ```
 
 3. Run the program:
