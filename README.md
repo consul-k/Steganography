@@ -7,3 +7,4 @@ RU: Этот репозиторий содержит мои проекты по 
 ## Projects / Проекты
 - [StegoPy](https://github.com/consul-k/Steganography/tree/main/StegoPy) - utility for hiding text in images / утилита для сокрытия текста в изображениях
 - [PicSneaky](https://github.com/consul-k/Steganography/tree/main/PicSneaky) - utility that allows you to hide any files inside JPEG images / утилита, которая позволяет прятать любые файлы внутрь картинок формата JPEG
+- [ImageTextCoder](https://github.com/consul-k/Steganography/tree/main/ImageTextCoder) - utility for steganographic encoding of images into text files and vice versa / утилита для стеганографического кодирования изображений в текстовые файлы и наоборот
